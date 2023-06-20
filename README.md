@@ -1,4 +1,4 @@
-# JavaScriptWithECMAScript-Sample1
+# JavaScript with ECMAScript. Sample1
 
 To create and run a JavaScript application with ECMAScript modules (ES modules) in VSCode, you can follow these steps:
 
